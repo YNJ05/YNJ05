@@ -88,5 +88,3 @@
 </p>
 
 ---
-
-⭐ From **Yassin Najmi**
