@@ -151,19 +151,6 @@ focus:
 
 ---
 
-## `> ls projects/`
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| **[OpenStack Private Cloud](https://github.com/YNJ05/OpenStack-Epoxy-Deployment)** | Private IaaS cloud deployment using OpenStack Epoxy, Kolla-Ansible, and KVM. | `OpenStack` `Ansible` `Docker` `Ubuntu` |
-| **[AWS Microservices CI/CD](https://github.com/YNJ05/aws-ecs-microservices-cicd)** | Monolith-to-microservices migration with container deployment on ECS Fargate and blue/green delivery. | `AWS ECS` `CodePipeline` `Docker` `ALB` |
-| **[GreenTech SmartBin](https://github.com/YNJ05/GreenTech-SmartBin)** | IoT waste-management platform combining smart sensors, edge AI, Azure IoT, and route optimization. | `Azure IoT` `Raspberry Pi` `FastAPI` `YOLO` |
-| **[MyHeart Hospital](https://github.com/YNJ05/MyHeart-Project)** | Hospital platform composed of independent services, API gateway, JWT authentication, and container orchestration. | `Node.js` `FastAPI` `PostgreSQL` `Docker` |
-| **[AI Consult Chatbot](https://github.com/YNJ05/Ai-Counsult)** | Multi-agent assistant routing requests across language models and synthesizing responses. | `FastAPI` `Ollama` `NestJS` `WebSockets` |
-| **[TodoApp Microservices](https://github.com/YNJ05/TodoApp-microservices)** | Task-management platform built with NestJS services, role-based access control, and a Next.js frontend. | `NestJS` `Next.js` `MongoDB` `Prisma` |
-
----
-
 <div align="center">
 
 > *“The cloud is not a place — it's a way of doing IT.”*
