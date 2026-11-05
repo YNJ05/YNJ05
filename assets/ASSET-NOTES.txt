@@ -1,0 +1,2 @@
+profile-banner.png is used by README.md.
+ascii-portrait.svg is an optional standalone terminal-style portrait; it is not currently embedded in README.md.
