@@ -113,57 +113,6 @@ focus:
 
 ---
 
-## `> certifications`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /><br/>
-      <strong>AWS Certified Cloud Practitioner</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AWS_Academy-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy" /><br/>
-      <strong>Cloud Architecting</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AWS_Academy-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy" /><br/>
-      <strong>Microservices &amp; CI/CD</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ORACLE-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /><br/>
-      <strong>OCI Foundations Associate</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ORACLE-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /><br/>
-      <strong>OCI Architect Associate</strong>
-    </td>
-    <td align="center">
-      <sub>Cloud • Automation • Architecture</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## `> ls projects/`
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| **[OpenStack Private Cloud](https://github.com/YNJ05/OpenStack-Epoxy-Deployment)** | Private IaaS cloud deployment using OpenStack Epoxy, Kolla-Ansible, and KVM. | `OpenStack` `Ansible` `Docker` `Ubuntu` |
-| **[AWS Microservices CI/CD](https://github.com/YNJ05/aws-ecs-microservices-cicd)** | Monolith-to-microservices migration with container deployment on ECS Fargate and blue/green delivery. | `AWS ECS` `CodePipeline` `Docker` `ALB` |
-| **[GreenTech SmartBin](https://github.com/YNJ05/GreenTech-SmartBin)** | IoT waste-management platform combining smart sensors, edge AI, Azure IoT, and route optimization. | `Azure IoT` `Raspberry Pi` `FastAPI` `YOLO` |
-| **[MyHeart Hospital](https://github.com/YNJ05/MyHeart-Project)** | Hospital platform composed of independent services, API gateway, JWT authentication, and container orchestration. | `Node.js` `FastAPI` `PostgreSQL` `Docker` |
-| **[AI Consult Chatbot](https://github.com/YNJ05/Ai-Counsult)** | Multi-agent assistant routing requests across language models and synthesizing responses. | `FastAPI` `Ollama` `NestJS` `WebSockets` |
-| **[TodoApp Microservices](https://github.com/YNJ05/TodoApp-microservices)** | Task-management platform built with NestJS services, role-based access control, and a Next.js frontend. | `NestJS` `Next.js` `MongoDB` `Prisma` |
-
----
-
 <div align="center">
 
 > *“The cloud is not a place — it's a way of doing IT.”*
