@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="./ascii-portrait.svg" width="560" alt="ASCII portrait of Yassin NAJMI"/>
+  <img src="ascii-portrait.svg" width="560" alt="ASCII portrait of Yassin NAJMI"/>
 
   <br/><br/>
 
@@ -17,13 +17,13 @@
 
   <br/><br/>
 
-  <a href="http://portfolio-yassin-najmi.vercel.app/">
+  <a href="http://yassinnajmi.vercel.app/">
     <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/yassin-najmi-ynj05">
+  <a href="https://www.linkedin.com/in/yassinnajmi">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
