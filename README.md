@@ -68,10 +68,8 @@ interests:
 ### ☁️ Cloud Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" height="48" alt="AWS, Azure, Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,openstack,Oracle_Cloud&theme=dark" height="48" alt="AWS, Azure, Google Cloud, OpenStack, Oracle Cloud Infrastructure" />
   <br/>
-  <img src="https://img.shields.io/badge/OpenStack-000000?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
 </p>
 
 ### ⚙️ DevOps &amp; CI/CD
