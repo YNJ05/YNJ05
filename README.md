@@ -8,15 +8,6 @@
     width="100%"
     alt="Yassin NAJMI — monochrome Cloud and DevOps profile banner"
   />
-
-  <br/><br/>
-
-  <strong>Cloud &amp; DevOps Engineering Student @ INPT</strong>
-  <br/>
-  <sub>Rabat, Morocco · Final-year Engineering Student · Seeking a 4–6 Month PFE Internship</sub>
-
-  <br/><br/>
-
   <a href="https://portfolio-yassin-najmi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -133,15 +124,5 @@ interests:
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=YNJ05&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-  <strong><em>“The cloud is not a place — it's a way of doing IT.”</em></strong>
-
-  <br/><br/>
 
 </div>
