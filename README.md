@@ -24,13 +24,6 @@
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <br/><br/>
-
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&lines=Building+reliable+cloud+infrastructures;Automating+deployments+with+IaC+and+CI%2FCD;Deploying+private+clouds+with+OpenStack;Running+containerized+workloads+on+AWS+and+Azure;Cloud+%7C+DevOps+%7C+Automation+%7C+Observability"
-    alt="Cloud and DevOps focus"
-  />
-
 </div>
 
 ---
@@ -113,13 +106,6 @@ interests:
 ## `> github --stats`
 
 <div align="center">
-
-  <a href="https://github.com/YNJ05">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YNJ05&show_icons=true&hide_border=true&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=00000000&include_all_commits=true" alt="Yassin's GitHub statistics" />
-  </a>
-  <a href="https://github.com/YNJ05">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YNJ05&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&text_color=bdbdbd&bg_color=00000000" alt="Most used programming languages" />
-  </a>
 
   <br/><br/>
 
